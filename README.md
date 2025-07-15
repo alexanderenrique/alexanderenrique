@@ -1,16 +1,20 @@
-## Hi there 👋
+About Me
+- Technical Manager at the Stanford Nanofabrication Facility
 
-<!--
-**alexanderenrique/alexanderenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Focused on building open, intelligent infrastructure for complex lab environments
 
-Here are some ideas to get you started:
+- Passionate about making scientific data and processes more reusable, discoverable, and transparent
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Advocate for open science and research engineering
+
+Projects & Interests
+- Developer of NanoGPT, a tool for lab-scale knowledge management using AI
+
+- Builder of IoT systems for sample tracking and lab automation (ESP32, Modbus, RFID)
+
+- Contributor to open source tools for embedded sensing, data pipelines, and scientific reproducibility
+
+Education
+- M.S. in Materials Science, University of Colorado Boulder
+
+- B.A. in Chemistry, University of Colorado Boulder
