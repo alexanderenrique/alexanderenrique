@@ -8,7 +8,7 @@ About Me
 - Advocate for open science and research engineering
 
 Projects & Interests
-- Developer of NanoGPT, a tool for lab-scale knowledge management using AI
+- Creating LLM powered tools to streamline lab efficiency 
 
 - Builder of IoT systems for sample tracking and lab automation (ESP32, Modbus, RFID)
 
